@@ -60,8 +60,8 @@ Hiển thị danh sách các hóa đơn chưa thanh toán, kèm theo **số bàn
 
 - Hiển thị danh sách bàn theo khu vực.
 - **Màu bàn:**
-  - **🔴 Đỏ**: Bàn đang có khách.
-  - **🟢 Xanh**: Bàn trống.
+  - ** Đỏ**: Bàn đang có khách.
+  - ** Xanh**: Bàn trống.
 
 ![image](https://github.com/user-attachments/assets/5a5d1be8-1ad4-4100-993f-81ea301dd085)
 
@@ -122,7 +122,7 @@ Hiển thị danh sách các hóa đơn chưa thanh toán, kèm theo **số bàn
 ### **2.9. Thanh điều hướng**
 
 - Chuyển nhanh giữa các giao diện.
-- **🔐 "Đăng xuất"**: Thoát khỏi hệ thống
+- ** "Đăng xuất"**: Thoát khỏi hệ thống
 - Có sự khác biệt ở thanh điều hướng dựa vào loại tài khoản "Quản lý" hoặc "Nhân viên"
 
 ![image](https://github.com/user-attachments/assets/5a9f6901-c337-48ec-837e-fc60e13c5013)
